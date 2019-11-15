@@ -1,0 +1,14 @@
+D:\Code\ClipboardTest\ClipboardSave\bin\Debug\ClipboardSave.exe.config
+D:\Code\ClipboardTest\ClipboardSave\bin\Debug\ClipboardSave.exe
+D:\Code\ClipboardTest\ClipboardSave\bin\Debug\ClipboardSave.pdb
+D:\Code\ClipboardTest\ClipboardSave\bin\Debug\ClipboardTest.exe
+D:\Code\ClipboardTest\ClipboardSave\bin\Debug\ClipboardTest.pdb
+D:\Code\ClipboardTest\ClipboardSave\bin\Debug\ClipboardTest.exe.config
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.csprojAssemblyReference.cache
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.frnMain.resources
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.Properties.Resources.resources
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.csproj.GenerateResource.cache
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.csproj.CoreCompileInputs.cache
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.csproj.CopyComplete
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.exe
+D:\Code\ClipboardTest\ClipboardSave\obj\Debug\ClipboardSave.pdb
